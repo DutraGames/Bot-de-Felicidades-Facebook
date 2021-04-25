@@ -6,6 +6,10 @@ Um simples bot que envia felicidades aos seus amigos no face!
 Utilizei da puppeteer, para acessar a rede do facebook e navegar pelo mesmo.
 Link da biblioteca: https://pptr.dev/
 
+## Demostração:
+
+Vídeo demostrativo: https://www.youtube.com/watch?v=65cnkIwjBQw&ab_channel=GabrielDutra
+
 # Como funciona?
 
 O bot ele irá navegar até ágina de aniversariantes de seu usuário, Logo depois procurará o campo:
